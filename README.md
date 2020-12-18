@@ -1,2 +1,1 @@
-# vueAutoFile
-vue
+# vue-template
