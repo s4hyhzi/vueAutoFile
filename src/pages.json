@@ -1,0 +1,26 @@
+{
+  "pages": [
+    {
+      "path": "pages/Home",
+      "name": "Home"
+    },
+    {
+      "path": "pages/About",
+      "name": "About"
+    },
+    {
+      "path": "pages/Login/Logout",
+      "name": "Logout"
+    },{
+      "path":"pages/Self/Self",
+      "name":"Self"
+    },{
+      "path":"pages/New/New",
+      "name":"New"
+    },
+    {
+      "path":"pages/Now/Now",
+      "name":"New"
+    }
+  ]
+}
